@@ -9,6 +9,8 @@ Some sentence.
 
 Some other sentence.
 
+Yet another sentence in my intro.
+
 ## Background
 Plutonium is a common ...
 
